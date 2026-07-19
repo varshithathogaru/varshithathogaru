@@ -1,5 +1,5 @@
-# about-varshitha # 
-👋 Hello, I'm VarshithaThogaru<br>>A passionate Data Science undergraduate with a strong interest in Software Development.<br>💡 I enjoy transforming ideas into real-world applications through clean, efficient, and scalable code.<br>Currently focused on sharpening problem-solving skills, building impactful projects, and preparing for Software Engineering opportunities.
+# varshithaTHogaru# 
+👋 Hello, I'm VarshithaThogaru<br>A passionate Data Science undergraduate with a strong interest in Software Development.<br>💡 I enjoy transforming ideas into real-world applications through clean, efficient, and scalable code.<br>Currently focused on sharpening problem-solving skills, building impactful projects, and preparing for Software Engineering opportunities.
 
 
 ## 🌐 Socials:
