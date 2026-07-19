@@ -1,6 +1,6 @@
 # about-varshitha # 
 About Me:
-👋 Hello, I'm Varshitha<br><br>A passionate Data Science undergraduate with a strong interest in Software Development.<br><br>💡 I enjoy transforming ideas into real-world applications through clean, efficient, and scalable code.<br><br>🔹 Python<br>🔹 Java<br>🔹 SQL<br>🔹 Full Stack Development<br>🔹 Machine Learning<br>🔹 Data Structures & Algorithms<br><br>Currently focused on sharpening problem-solving skills, building impactful projects, and preparing for Software Engineering opportunities.
+👋 Hello, I'm Varshitha<br><br>A passionate Data Science undergraduate with a strong interest in Software Development.<br>💡 I enjoy transforming ideas into real-world applications through clean, efficient, and scalable code.<br>Data Structures & Algorithms<br><br>Currently focused on sharpening problem-solving skills, building impactful projects, and preparing for Software Engineering opportunities.
 
 
 ## 🌐 Socials:
